@@ -1,2 +1,1 @@
-# very-basic-resume
-https://github.com/AnushkaJulaniya/very-basic-resume
+https://anushkajulaniya.github.io/very-basic-resume/# very-basic-resume
